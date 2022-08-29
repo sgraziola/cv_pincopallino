@@ -1,3 +1,8 @@
+body{
+    width: 70%;
+    margin: auto;
+}
+
 header{
     height: 75px;
     background-size: 275px;
@@ -13,4 +18,25 @@ header{
 
 #impo{
     background-color: yellow;
+}
+
+.sottotitolo{
+    color: gray;
+}
+
+.didascalia{
+font-size: small;
+}
+
+#boolean{
+    color: #37B2E8;
+}
+
+thead{
+    color: white;
+    background-color: #37B2E8;
+}
+
+.azzurro{
+    background-color:lightblue; 
 }
