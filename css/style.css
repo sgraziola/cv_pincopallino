@@ -4,23 +4,22 @@ body{
 }
 
 header{
-    height: 75px;
-    background-size: 275px;
+    background-size: 130px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
 }
 
 #logo{
-    width: 150px;
+    width: 120px;
     position: relative;
-    top: 30px;
+    top: 5px;
 }
 
 h1{
     margin-bottom: 0;
 }
 
-#impo{
+.impo{
     background-color: yellow;
 }
 
