@@ -16,12 +16,17 @@ header{
     top: 30px;
 }
 
+h1{
+    margin-bottom: 0;
+}
+
 #impo{
     background-color: yellow;
 }
 
 .sottotitolo{
     color: gray;
+    display: block;
 }
 
 .didascalia{
