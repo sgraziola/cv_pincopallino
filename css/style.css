@@ -1,9 +1,16 @@
 header{
-    background-size: 25%;
+    height: 75px;
+    background-size: 275px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
 }
 
 #logo{
     width: 150px;
+    position: relative;
+    top: 30px;
+}
+
+#impo{
+    background-color: yellow;
 }
