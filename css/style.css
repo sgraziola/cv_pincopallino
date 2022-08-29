@@ -40,3 +40,24 @@ thead{
 .azzurro{
     background-color:lightblue; 
 }
+
+ul{
+    padding-left: 20px;
+}
+
+.container {
+  
+    position: relative;
+    color: white;
+  }
+
+.monitor{
+    position: absolute;
+    top: 8px;
+    left: 13px;
+}
+
+.foot_image{
+    max-width: 200px;
+    max-height: 200px;
+}
